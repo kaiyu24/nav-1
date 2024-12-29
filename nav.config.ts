@@ -1,7 +1,7 @@
 import { IConfig } from './src/types'
 
 const c: IConfig = {
-  // [https://github.com/kaiyu24/nav-1], 请填写您的仓库地址
+  // [https://github.com/kaiyu24], 请填写您的仓库地址
   gitRepoUrl: 'https://github.com/xjh22222228/nav',
 
   // 部署分支
